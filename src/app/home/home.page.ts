@@ -13,7 +13,6 @@ export class HomePage {
   time : number
   bottles: number
   prom : number
-  test : any
 
   public time_arr: Array<any> = []
   public bottles_arr: Array<any> = []
